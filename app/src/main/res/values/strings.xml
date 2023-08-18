@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">scientific_calci</string>
+    <string name="ac">AC</string>
+    <string name="c">C</string>
+    <string name="openbracket">(</string>
+    <string name="closebracket">)</string>
+</resources>
